@@ -1,10 +1,10 @@
-# CardWorkout-Programmatic-UIKit
+# CardWorkout
 
-CardWorkout-Programmatic-UIKit is an iOS app that provides a workout routine using a deck of cards. Each card represents a different exercise, and the app generates a random workout based on the cards drawn.
+card-workout-programmatic-uikit is an iOS app that provides a workout routine using a deck of cards. Each card represents a different exercise, and the app generates a random workout based on the cards drawn.
 
 ## Installation
 
-To install CardWorkout-Programmatic-UIKit, follow these steps:
+To install card-workout-programmatic-uikit, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project in Xcode.
@@ -12,7 +12,7 @@ To install CardWorkout-Programmatic-UIKit, follow these steps:
 
 ## Usage
 
-To use CardWorkout-Programmatic-UIKit, follow these steps:
+To use card-workout-programmatic-uikit, follow these steps:
 
 1. Launch the app.
 2. Tap the "Draw Cards" button to generate a random workout.
