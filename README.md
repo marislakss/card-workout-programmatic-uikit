@@ -1,4 +1,4 @@
-# CardWorkout
+# card-workout-programmatic-uikit
 
 card-workout-programmatic-uikit is an iOS app that provides a workout routine using a deck of cards. Each card represents a different exercise, and the app generates a random workout based on the cards drawn.
 
